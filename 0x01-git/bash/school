@@ -1,2 +1,2 @@
-#!/bin/bashen
-echo "The School is op"
+#!/bin/bash
+echo "The School is open!"
